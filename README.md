@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Create a new file .env in the backend directory of project through the command:
 ### `touch .env`
 
-In the file enter details of your mongoDB database in the following format: 
+In the .env file enter details of your mongoDB database in the following format: 
 `MONGO_URI = "mongodb + srv://<\username>:<\password>@<\DatabaseURL>`
 
 After setting up your environment file for installing all the dependencies that are needed for the backend, run the following command in the terminal in the main directory of the backend, (like Infomatrix/backend):
